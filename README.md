@@ -35,6 +35,9 @@ We utilized two datasets:
 - **Dataset 1**: Contains 51,000 rows and 61 columns.
 - **Dataset 2**: Contains 51,000 rows and 26 columns.
 
+You can access the dataset from:
+[!kaggle dataset](https://www.kaggle.com/datasets/tushtiverma/credit-risk-modeling)
+
 The two datasets were merged using an inner join on the `Prospect ID`, resulting in a combined dataset with 51,000 rows and 71 columns.
 
 ## Project Workflow
